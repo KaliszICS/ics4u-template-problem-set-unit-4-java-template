@@ -6,10 +6,16 @@ import java.io.*;
 public class ProblemSetTest {
 
    //Create your tests here if you want any
+
+   /*
+
+   //Example Test
+   
    @Test
    public void exampleTest()
    {
-      //Cat cat = new Cat();
-      //assertEquals("whiskers", cat.getName());
+      Cat cat = new Cat();
+      assertEquals("whiskers", cat.getName());
    }
+   */
 }
